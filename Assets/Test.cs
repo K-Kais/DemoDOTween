@@ -26,8 +26,7 @@ public class Test : MonoBehaviour
                 });
 
 
-            // Binh 4
-            // Test master 4
+            // Test master 5
             }).SetEase(easeList[i++]);
         }
     }

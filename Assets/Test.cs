@@ -25,6 +25,7 @@ public class Test : MonoBehaviour
                     popup.transform.DOScale(Vector3.one, duration / 2).SetEase(Ease.InOutBack);
                 });
 
+
             }).SetEase(easeList[i++]);
         }
     }

@@ -26,6 +26,7 @@ public class Test : MonoBehaviour
                 });
 
 
+
             }).SetEase(easeList[i++]);
         }
     }
